@@ -1,0 +1,1 @@
+{"ast":null,"code":"import SignUpForm from \"./SignUpForm\";\nexport default SignUpForm;","map":{"version":3,"sources":["D:/FindLove/src/scenes/signUpForm/index.js"],"names":["SignUpForm"],"mappings":"AAAA,OAAOA,UAAP;AAEA,eAAeA,UAAf","sourcesContent":["import SignUpForm from './SignUpForm'\n\nexport default SignUpForm\n"]},"metadata":{},"sourceType":"module"}

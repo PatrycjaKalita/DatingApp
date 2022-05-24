@@ -1,0 +1,1 @@
+{"ast":null,"code":"import Routes from \"./Routes\";\nexport default Routes;","map":{"version":3,"sources":["D:/FindLove/src/routes/index.js"],"names":["Routes"],"mappings":"AAAA,OAAOA,MAAP;AAEA,eAAeA,MAAf","sourcesContent":["import Routes from './Routes'\n\nexport default Routes\n"]},"metadata":{},"sourceType":"module"}

@@ -1,0 +1,1 @@
+{"ast":null,"code":"import Profile from \"./Profile\";\nexport default Profile;","map":{"version":3,"sources":["D:/FindLove/src/scenes/profile/index.js"],"names":["Profile"],"mappings":"AAAA,OAAOA,OAAP;AAEA,eAAeA,OAAf","sourcesContent":["import Profile from './Profile'\n\nexport default Profile\n"]},"metadata":{},"sourceType":"module"}

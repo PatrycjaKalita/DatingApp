@@ -1,0 +1,10 @@
+{
+  "devToolsPort": 19002,
+  "expoServerPort": 19000,
+  "packagerPort": 19000,
+  "webpackServerPort": null,
+  "expoServerNgrokUrl": "https://mz-4fn.anonymous.findlove.exp.direct",
+  "packagerNgrokUrl": "https://packager.mz-4fn.anonymous.findlove.exp.direct",
+  "ngrokPid": 15160,
+  "packagerPid": null
+}

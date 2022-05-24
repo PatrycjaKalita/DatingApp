@@ -1,0 +1,1 @@
+{"ast":null,"code":"import StartPage from \"./StartPage\";\nexport default StartPage;","map":{"version":3,"sources":["D:/FindLove/src/scenes/startPage/index.js"],"names":["StartPage"],"mappings":"AAAA,OAAOA,SAAP;AAEA,eAAeA,SAAf","sourcesContent":["import StartPage from './StartPage'\n\nexport default StartPage\n"]},"metadata":{},"sourceType":"module"}

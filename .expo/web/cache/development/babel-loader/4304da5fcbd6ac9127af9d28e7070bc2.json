@@ -1,0 +1,1 @@
+{"ast":null,"code":"import Details from \"./Details\";\nexport default Details;","map":{"version":3,"sources":["D:/FindLove/src/scenes/details/index.js"],"names":["Details"],"mappings":"AAAA,OAAOA,OAAP;AAEA,eAAeA,OAAf","sourcesContent":["import Details from './Details'\n\nexport default Details\n"]},"metadata":{},"sourceType":"module"}

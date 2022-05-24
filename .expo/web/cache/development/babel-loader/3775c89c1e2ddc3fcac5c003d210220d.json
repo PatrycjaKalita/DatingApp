@@ -1,0 +1,1 @@
+{"ast":null,"code":"import LoginForm from \"./LoginForm\";\nexport default LoginForm;","map":{"version":3,"sources":["D:/FindLove/src/scenes/loginForm/index.js"],"names":["LoginForm"],"mappings":"AAAA,OAAOA,SAAP;AAEA,eAAeA,SAAf","sourcesContent":["import LoginForm from './LoginForm'\n\nexport default LoginForm\n"]},"metadata":{},"sourceType":"module"}
